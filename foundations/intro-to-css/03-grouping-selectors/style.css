@@ -1,0 +1,12 @@
+.click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.first {
+    color: white;
+    background-color: black;
+
+}
+.second {
+    background-color: rgb(200, 250, 40)
+}
